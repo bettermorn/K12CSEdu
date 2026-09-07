@@ -21,6 +21,12 @@ courseware for reference.
 # 代码质量
 参考 [VS Code 质量插件](https://github.com/bettermorn/ACMWDevHubPPT/blob/master/Methodology/VSCodePlugins.md)
 
+# 参考书籍
+1. Design Thinking: A Guide to Innovation  1.详解设计思维6步骤，包括“观察与反思”。2.分享真实学生团队项目故事，激发解决社会问题的创新意识。3.获美国NSTA/CBC“最佳STEM图书”等多个奖项及星级评论。
+
+2. Sprint 中文版《设计冲刺：谷歌风投如何5天完成产品迭代》（第2版） ，内容很故事化，像读一本创业小说。
+
+
 
 
 
