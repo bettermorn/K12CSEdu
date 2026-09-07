@@ -18,6 +18,9 @@ courseware for reference.
 5. 学习需要阅读参考书籍。
 6. 寻找伙伴。高中生和2-3个不同性格、不同学科优势的团队伙伴一起学习和做项目，效果会翻倍。
 
+# 代码质量
+参考 [VS Code 质量插件](https://github.com/bettermorn/ACMWDevHubPPT/blob/master/Methodology/VSCodePlugins.md)
+
 
 
 
