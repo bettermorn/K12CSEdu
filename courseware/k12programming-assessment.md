@@ -1,4 +1,11 @@
 # Python
+
+## 工具
+
+VS Code 插件
+
+https://github.com/bettermorn/ACMWDevHubPPT/blob/master/Methodology/VSCodePlugins.md
+
 ## 一、方法概述
 
 本方法是**给定学生已完成的Python代码作品**（如课堂作业、项目源码），通过**代码静态分析 + 结构化提问 + 代码重构任务**三种手段，反推并评估学生在编写该代码时体现出的分解、抽象、模式识别、算法设计四种计算思维能力。
