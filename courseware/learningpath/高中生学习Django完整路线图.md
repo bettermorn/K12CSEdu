@@ -1,5 +1,13 @@
 # 高中生学习Django完整路线图
 
+
+## 参考线上课程
+
+[Web Application Technologies and Django by UoM](https://www.coursera.org/learn/django-database-web-apps)
+
+
+[Introduction to Web Development with HTML, CSS, JavaScript by IBM ](https://www.coursera.org/learn/introduction-to-web-development-with-html-css-javacript)
+
 ## 一、学习前的准备工作
 
 ### 1. 心态建设
@@ -25,7 +33,7 @@ python -m django --version
 
 在学Django之前，必须先理解网站是怎么工作的，否则学Django会很懵。
 
-[Web应用入门学习i](https://github.com/bettermorn/ACMWDevHubPPT/wiki/%E5%88%9B%E6%96%B0%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5%E8%AF%BE%E7%A8%8B%EF%BC%9A%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83#web%E5%85%A5%E9%97%A8%E5%AD%A6%E4%B9%A0)
+[Web应用入门学习](https://github.com/bettermorn/ACMWDevHubPPT/wiki/%E5%88%9B%E6%96%B0%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5%E8%AF%BE%E7%A8%8B%EF%BC%9A%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83#web%E5%85%A5%E9%97%A8%E5%AD%A6%E4%B9%A0)
 
 ### 核心概念（用生活化比喻理解）
 1. **客户端-服务器模型**：把浏览器比作"顾客"，服务器比作"餐厅厨房"
