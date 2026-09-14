@@ -17,3 +17,5 @@
 1. I Love Algorithms: A Machineless Machine Learning Creation Kit • You don’t have to know the code, but you do need to know what the code can do. https://dschool.stanford.edu/tools/i-love-algorithms-machineless-machine-learning
 
 2. Data Structures and Algorithms.  https://www.w3schools.com/dsa/index.php
+
+3. Princeton University.Computer Science: Algorithms, Theory, and Machines. https://www.coursera.org/learn/cs-algorithms-theory-machines
